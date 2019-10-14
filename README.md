@@ -22,21 +22,4 @@ apt-get install xinetd libc6-i386 lib32ncurses5-dev lib32stdc++6
 
 ## Installation
 
-After you clone the depot, you just need to launch the following command (you need to be root):
-
-```bash
-#!/bin/sh
-echo 0 > /proc/sys/kernel/randomize_va_space
-cd challenge1
-/usr/local/bin/docker-compose up &
-cd ../challenge2
-/usr/local/bin/docker-compose up &
-cd ../challenge3
-/usr/local/bin/docker-compose up &
-cd ../challenge4
-/usr/local/bin/docker-compose up &
-cd ../challenge5
-/usr/local/bin/docker-compose up &
-cd ../challenge6
-/usr/local/bin/docker-compose up &
-```
+After you clone the depot, you just need to launch the start.sh file (you need to be root):
