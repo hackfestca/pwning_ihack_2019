@@ -12,12 +12,12 @@ You can set up the challenges following the instructions below.
 
 ## Dependencies
 
-You need to install [docker](https://docs.docker.com/install/linux/docker-ce/debian/) and [docker-compose ](https://docs.docker.com/compose/).
+You need to install [docker](https://docs.docker.com/install/linux/docker-ce/debian/) and [docker-compose](https://docs.docker.com/compose/install/).
 
 With apt-get, you need to install the following packages:
 
 ```bash
-àpt-get xinetd libc6:i386 libncurses5:i386 libstdc++6:i386
+apt-get install xinetd libc6-i386 lib32ncurses5-dev lib32stdc++6
 ```
 
 ## Installation
