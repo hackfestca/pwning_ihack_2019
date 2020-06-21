@@ -22,4 +22,4 @@ apt-get install xinetd libc6-i386 lib32ncurses5-dev lib32stdc++6
 
 ## Installation
 
-After you clone the depot, you just need to launch the start.sh file (you need to be root):
+After you clone the depot, you just need to launch the start.sh file (you need to be root).
