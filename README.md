@@ -1,4 +1,4 @@
-### IHack 2019 pwning challenge by sushi
+### IHack 2019 pwning challenge by salt
 
 ## Introduction
 
@@ -6,7 +6,7 @@ The Ihack CTF is a hacking competition organized 6 months before the Hackfest. T
 
 For the 2019 edition, I created a track on Linux binary exploitation (pwning). I tried to build challenges in order to introduce beginners to this "world".
 
-You can find the write-ups on my [blog](https://www.sushi-hacking-blog.com/2019/06/16/Ihack-2019-pwning-challenges.html):
+You can find the write-ups on my [blog](https://salt-hacking-blog.com/hackfest/2019/06/16/pwning-challenges.html):
 
 You can set up the challenges following the instructions below.
 
